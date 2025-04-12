@@ -1,4 +1,4 @@
-# AudiPadi - Vehicle Service App
+# AutoPadi - Vehicle Service App
 
 AudiPadi is a comprehensive mobile application designed to connect vehicle owners with auto service providers and emergency services. The app facilitates service search, booking, and management for vehicle maintenance and emergency assistance.
 
@@ -46,7 +46,7 @@ AudiPadi is a comprehensive mobile application designed to connect vehicle owner
 ## Project Structure
 
 ```
-audipadi/
+autopadi/
 ├── src/
 │   ├── assets/              # Images, icons, and other static assets
 │   ├── components/          # Reusable UI components
